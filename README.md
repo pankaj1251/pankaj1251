@@ -12,7 +12,7 @@ I'm Pankaj Pandit, a final year student at the Indian Institute of Technology (B
 Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities or just a friendly chat. Cheers! 🎉
 
 
-<img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="200" height="200" alt="Pudgy Penguins">
+<img aligh = "right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="200" height="200" alt="Pudgy Penguins">
 
 # 💫 About Me:
 🔭 I'm currently working on PicPod- a Social Media Website.<br>🌱 I'm currently learning React.js, Django.<br>👨🏻‍💻   Most of my projects are available on GitHub.<br>💬   Ask me about anything tech related, I am happy to help;<br>📫   Feel free to ping me on LinkedIn<br>📝   Checkout my resume<br>📫   Reach me out: pandit.pankaj.work@gmail.com
