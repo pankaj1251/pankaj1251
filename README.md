@@ -6,10 +6,10 @@ I'm Pankaj Pandit, a final year student at the Indian Institute of Technology (B
 "I'm a backend wizard 🧙‍♂️, weaving intricate systems and robust architectures behind the scenes. With a keen eye for optimization and scalability, I specialize in crafting seamless backend solutions that power the heart of applications. Let's build the foundation for something extraordinary together! 💻✨"
 
 
-<img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="360" height="360" alt="Pudgy Penguins">
+<img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="240" height="240" alt="Pudgy Penguins">
 
 # 💫 About Me:
-🔭 I'm currently working on PicPod- a Social Media Website.<br>🌱 I'm currently learning React.js, Django.<br>👨🏻‍💻   Most of my projects are available on GitHub.<br>💬   Ask me about anything tech related, I am happy to help;<br>📫   Feel free to ping me on ![LinkedIn](https://www.linkedin.com/in/pankaj-d-pandit/)<br>📝   Checkout my ![resume](https://drive.google.com/file/d/1Ow91y4me-ytg4409WHgNHaz6W6Br5on7/view?usp=sharing)<br>📫   Reach me out: pandit.pankaj.work@gmail.com
+🔭 I'm currently working on PicPod- a Social Media Website.<br>🌱 I'm currently learning React.js, Django.<br>👨🏻‍💻   Most of my projects are available on GitHub.<br>💬   Ask me about anything tech related, I am happy to help;<br>📝   Checkout my ![resume](https://drive.google.com/file/d/1Ow91y4me-ytg4409WHgNHaz6W6Br5on7/view?usp=sharing)<br>📫   Reach me out: pandit.pankaj.work@gmail.com
 
 
 ## 🌐 Socials:
