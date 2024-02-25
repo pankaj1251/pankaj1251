@@ -1,26 +1,19 @@
 ### Hey 👋, I'm Pankaj Pandit!
 
 
-I'm Pankaj Pandit, a final year student at the Indian Institute of Technology (BHU), Varanasi, India. With a knack for crafting innovative solutions, I'm deeply passionate about software development and problem-solving.
+I'm Pankaj Pandit, a final year student at the Indian Institute of Technology (BHU), Varanasi, India. 
 
-💻 Proficient in a plethora of technologies including C++, Data Structures, Algorithms, HTML, CSS, JavaScript, and SQL, I thrive on turning ideas into reality. From building sleek web interfaces to architecting robust backend systems, I've got it covered!
-
-🌟 My toolbox includes Node.js, MongoDB, MySQL, and REST API, and I love diving into new technologies to broaden my horizons.
-
-🔍 With an analytical mindset, lightning-fast learning abilities, and stellar communication skills, I'm all set to tackle the challenges of the software development world head-on. Let's collaborate and build something awesome together!
-
-Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities or just a friendly chat. Cheers! 🎉
+"I'm a backend wizard 🧙‍♂️, weaving intricate systems and robust architectures behind the scenes. With a keen eye for optimization and scalability, I specialize in crafting seamless backend solutions that power the heart of applications. Let's build the foundation for something extraordinary together! 💻✨"
 
 
-<img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="200" height="200" alt="Pudgy Penguins">
+<img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="360" height="360" alt="Pudgy Penguins">
 
 # 💫 About Me:
-🔭 I'm currently working on PicPod- a Social Media Website.<br>🌱 I'm currently learning React.js, Django.<br>👨🏻‍💻   Most of my projects are available on GitHub.<br>💬   Ask me about anything tech related, I am happy to help;<br>📫   Feel free to ping me on LinkedIn<br>📝   Checkout my resume<br>📫   Reach me out: pandit.pankaj.work@gmail.com
+🔭 I'm currently working on PicPod- a Social Media Website.<br>🌱 I'm currently learning React.js, Django.<br>👨🏻‍💻   Most of my projects are available on GitHub.<br>💬   Ask me about anything tech related, I am happy to help;<br>📫   Feel free to ping me on ![LinkedIn](https://www.linkedin.com/in/pankaj-d-pandit/)<br>📝   Checkout my ![resume](https://drive.google.com/file/d/1Ow91y4me-ytg4409WHgNHaz6W6Br5on7/view?usp=sharing)<br>📫   Reach me out: pandit.pankaj.work@gmail.com
 
-<!-- <iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p> -->
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ge4r_5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pankaj-D-Pandit) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ge4r_5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pankaj-D-Pandit) ![Codeforces](https://codeforces.com/profile/Coder_Pankaj) ![LeetCode](https://leetcode.com/Gear5/)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
