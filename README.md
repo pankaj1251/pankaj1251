@@ -22,7 +22,7 @@ Let's build the foundation for something extraordinary together! 💻✨"
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pankaj1251&icon=5&color=10)](https://visitcount.itsvg.in)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
