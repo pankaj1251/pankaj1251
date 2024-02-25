@@ -1,5 +1,8 @@
 ### Hey 👋, I'm Pankaj Pandit!
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ge4r_5) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pankaj-D-Pandit) 
+
 
 I'm Pankaj Pandit, a final year student at the **Indian Institute of Technology (BHU)**, Varanasi, India. 
 
