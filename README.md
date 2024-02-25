@@ -1,5 +1,4 @@
 ### Hey 👋, I'm Pankaj Pandit!
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ge4r_5) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pankaj-D-Pandit) 
 
@@ -21,10 +20,6 @@ Let's build the foundation for something extraordinary together! 💻✨"
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Ow91y4me-ytg4409WHgNHaz6W6Br5on7/view?usp=sharing)
 - 📫 &nbsp; Reach me out: pandit.pankaj.work@gmail.com
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ge4r_5) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pankaj-D-Pandit) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
