@@ -6,7 +6,7 @@
 
 I'm Pankaj Pandit, a final year student at the **Indian Institute of Technology (BHU)**, Varanasi, India. 
 
-"I'm a backend developer, proficient in crafting intricate systems and robust architectures behind the scenes. With a sharp focus on optimization and scalability, I excel in creating seamless backend solutions that drive the core of applications." 
+"I'm a **Backend developer**, proficient in crafting intricate systems and robust architectures behind the scenes. With a sharp focus on optimization and scalability, I excel in creating seamless backend solutions that drive the core of applications." 
 
 "Let's collaborate and lay the groundwork for something extraordinary! 💻✨"
 
@@ -14,7 +14,7 @@ I'm Pankaj Pandit, a final year student at the **Indian Institute of Technology 
 <img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="300" height="300" alt="Pudgy Penguins">
 
 ## 💫 About Me:
-- 🔭 &nbsp;I'm currently working on **PicPod**- a Social Media Website.
+- 🔭 &nbsp;I'm currently working on **PicPod**- **a Social Media Website**.
 - 🌱 &nbsp; I'm currently learning **React.js**, **Django**.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/pankaj1251?tab=repositories).
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;<br>
