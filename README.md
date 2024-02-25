@@ -1,19 +1,27 @@
 ### Hey 👋, I'm Pankaj Pandit!
 
 
-I'm Pankaj Pandit, a final year student at the Indian Institute of Technology (BHU), Varanasi, India. 
+I'm Pankaj Pandit, a final year student at the **Indian Institute of Technology (BHU)**, Varanasi, India. 
 
-"I'm a backend wizard 🧙‍♂️, weaving intricate systems and robust architectures behind the scenes. With a keen eye for optimization and scalability, I specialize in crafting seamless backend solutions that power the heart of applications. Let's build the foundation for something extraordinary together! 💻✨"
+"I'm a **backend wizard** 🧙‍♂️, weaving intricate systems and robust architectures behind the scenes. With a keen eye for optimization and scalability, I specialize in crafting seamless backend solutions that power the heart of applications. Let's build the foundation for something extraordinary together! 💻✨"
 
 
 <img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" style="margin-right:100px" width="240" height="240" alt="Pudgy Penguins">
 
 # 💫 About Me:
-🔭 I'm currently working on PicPod- a Social Media Website.<br>🌱 I'm currently learning React.js, Django.<br>👨🏻‍💻   Most of my projects are available on GitHub.<br>💬   Ask me about anything tech related, I am happy to help;<br>📝   Checkout my ![resume](https://drive.google.com/file/d/1Ow91y4me-ytg4409WHgNHaz6W6Br5on7/view?usp=sharing)<br>📫   Reach me out: pandit.pankaj.work@gmail.com
+🔭 I'm currently working on **PicPod**- a Social Media Website.<br>
+🌱 I'm currently learning **React.js**, **Django**.<br>
+👨🏻‍💻 Most of my projects are available on ![GitHub](https://github.com/pankaj1251?tab=repositories).<br>
+💬 Ask me about anything tech related, I am happy to help;<br>
+📝 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Ow91y4me-ytg4409WHgNHaz6W6Br5on7/view?usp=sharing)<br>
+📫 Reach me out: pandit.pankaj.work@gmail.com
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ge4r_5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pankaj-D-Pandit) ![Codeforces](https://codeforces.com/profile/Coder_Pankaj) ![LeetCode](https://leetcode.com/Gear5/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ge4r_5) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pankaj-D-Pandit) 
+![Codeforces](https://codeforces.com/profile/Coder_Pankaj) 
+![LeetCode](https://leetcode.com/Gear5/)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
