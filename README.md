@@ -15,8 +15,8 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 # 💫 About Me:
 🔭 I'm currently working on PicPod- a Social Media Website.<br>🌱 I'm currently learning React.js, Django.<br>👨🏻‍💻   Most of my projects are available on GitHub.<br>💬   Ask me about anything tech related, I am happy to help;<br>📫   Feel free to ping me on LinkedIn<br>📝   Checkout my resume<br>📫   Reach me out: pandit.pankaj.work@gmail.com
 
-
-![Pudgy Penguins](https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif)
+<img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="360" height="360" alt="Pudgy Penguins">
+<!-- <iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p> -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ge4r_5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pankaj-D-Pandit) 
