@@ -6,9 +6,9 @@
 
 I'm Pankaj Pandit, a final year student at the **Indian Institute of Technology (BHU)**, Varanasi, India. 
 
-"I'm a **backend wizard** 🧙‍♂️, weaving intricate systems and robust architectures behind the scenes. With a keen eye for optimization and scalability, I specialize in crafting seamless backend solutions that power the heart of applications. 
+"I'm a backend developer, proficient in crafting intricate systems and robust architectures behind the scenes. With a sharp focus on optimization and scalability, I excel in creating seamless backend solutions that drive the core of applications." 
 
-Let's build the foundation for something extraordinary together! 💻✨"
+"Let's collaborate and lay the groundwork for something extraordinary! 💻✨"
 
 
 <img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="300" height="300" alt="Pudgy Penguins">
