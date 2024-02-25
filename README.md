@@ -3,18 +3,20 @@
 
 I'm Pankaj Pandit, a final year student at the **Indian Institute of Technology (BHU)**, Varanasi, India. 
 
-"I'm a **backend wizard** 🧙‍♂️, weaving intricate systems and robust architectures behind the scenes. With a keen eye for optimization and scalability, I specialize in crafting seamless backend solutions that power the heart of applications. Let's build the foundation for something extraordinary together! 💻✨"
+"I'm a **backend wizard** 🧙‍♂️, weaving intricate systems and robust architectures behind the scenes. With a keen eye for optimization and scalability, I specialize in crafting seamless backend solutions that power the heart of applications. 
+
+Let's build the foundation for something extraordinary together! 💻✨"
 
 
 <img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" style="margin-right:100px" width="240" height="240" alt="Pudgy Penguins">
 
 # 💫 About Me:
-🔭 &nbsp;I'm currently working on **PicPod**- a Social Media Website.
-🌱 &nbsp; I'm currently learning **React.js**, **Django**.
-👨🏻‍💻 &nbsp; Most of my projects are available on ![GitHub](https://github.com/pankaj1251?tab=repositories).
-💬 &nbsp; Ask me about anything tech related, I am happy to help;<br>
-📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Ow91y4me-ytg4409WHgNHaz6W6Br5on7/view?usp=sharing)
-📫 &nbsp; Reach me out: pandit.pankaj.work@gmail.com
+- 🔭 &nbsp;I'm currently working on **PicPod**- a Social Media Website.
+- 🌱 &nbsp; I'm currently learning **React.js**, **Django**.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on ![GitHub](https://github.com/pankaj1251?tab=repositories).
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;<br>
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Ow91y4me-ytg4409WHgNHaz6W6Br5on7/view?usp=sharing)
+- 📫 &nbsp; Reach me out: pandit.pankaj.work@gmail.com
 
 
 ## 🌐 Socials:
