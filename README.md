@@ -9,12 +9,12 @@ I'm Pankaj Pandit, a final year student at the **Indian Institute of Technology 
 <img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" style="margin-right:100px" width="240" height="240" alt="Pudgy Penguins">
 
 # 💫 About Me:
-🔭 I'm currently working on **PicPod**- a Social Media Website.<br>
-🌱 I'm currently learning **React.js**, **Django**.<br>
-👨🏻‍💻 Most of my projects are available on ![GitHub](https://github.com/pankaj1251?tab=repositories).<br>
-💬 Ask me about anything tech related, I am happy to help;<br>
-📝 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Ow91y4me-ytg4409WHgNHaz6W6Br5on7/view?usp=sharing)<br>
-📫 Reach me out: pandit.pankaj.work@gmail.com
+🔭 &nbsp;I'm currently working on **PicPod**- a Social Media Website.
+🌱 &nbsp; I'm currently learning **React.js**, **Django**.
+👨🏻‍💻 &nbsp; Most of my projects are available on ![GitHub](https://github.com/pankaj1251?tab=repositories).
+💬 &nbsp; Ask me about anything tech related, I am happy to help;<br>
+📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Ow91y4me-ytg4409WHgNHaz6W6Br5on7/view?usp=sharing)
+📫 &nbsp; Reach me out: pandit.pankaj.work@gmail.com
 
 
 ## 🌐 Socials:
