@@ -22,7 +22,7 @@ Let's build the foundation for something extraordinary together! 💻✨"
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ge4r_5) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pankaj-D-Pandit) 
-[Codeforces](https://codeforces.com/profile/Coder_Pankaj) 
+[![Codeforces](https://art.npanuhin.me/SVG/Codeforces/Codeforces.svg)](https://codeforces.com/profile/Coder_Pankaj) 
 [LeetCode](https://leetcode.com/Gear5/)
 
 # 💻 Tech Stack:
