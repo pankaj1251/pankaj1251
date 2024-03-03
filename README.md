@@ -14,7 +14,7 @@ I'm Pankaj Pandit, a final year student at the **Indian Institute of Technology 
 <img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="300" height="300" alt="Pudgy Penguins">
 
 ## 💫 About Me:
-- 🔭 &nbsp;I'm currently working on **PicPod**- **a Social Media Website**.
+- 🔭 &nbsp;I'm currently working on [**PicPod**- **a Social Media Website**](https://github.com/pankaj1251/PicPod).
 - 🌱 &nbsp; I'm currently learning **React.js**, **Django**.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/pankaj1251?tab=repositories).
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;<br>
@@ -23,7 +23,7 @@ I'm Pankaj Pandit, a final year student at the **Indian Institute of Technology 
 
 
 ---
-![**Visitors**](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpankaj1251&label=Visitor%20Badge&labelColor=%23f47373&countColor=%23555555)
+**![**Visitors**](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpankaj1251&label=Visitor%20Badge&labelColor=%23f47373&countColor=%23555555)**
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
