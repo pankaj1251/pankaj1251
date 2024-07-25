@@ -18,7 +18,7 @@ I'm Pankaj Pandit, a final year student at the **Indian Institute of Technology 
 - 🌱 &nbsp; I'm currently learning **React.js**, **Django**.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/pankaj1251?tab=repositories).
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;<br>
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Ow91y4me-ytg4409WHgNHaz6W6Br5on7/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1j3odq1v2U6ACUxPfUCPMJgnmG-S_6xxT/view?usp=sharing)
 - 📫 &nbsp; Reach me out: pandit.pankaj.work@gmail.com
 
 
